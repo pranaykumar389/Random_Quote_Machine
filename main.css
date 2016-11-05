@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Courgette|Ek+Mukta:700');
+
+body {
+	background: #43cea2;
+	background: -webkit-linear-gradient(to left, #43cea2 , #185a9d);
+	background: linear-gradient(to left, #43cea2 , #185a9d);
+}
+
+.well {
+	margin: 5% auto;
+	max-width: 760px;
+}
+
+.quote {
+	font-family: 'Courgette', cursive;
+	font-size: 24px;
+	padding: 20px;
+}
+.author {
+	font-family: 'Ek Mukta', sans-serif;
+	font-size: 16px;
+}
